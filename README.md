@@ -4,7 +4,7 @@
 
 - 💪 I like to write code
 - 🌱 I’m currently learning<br>
-  express.js and MongoDB
+  Express.js and MongoDB
 - 🥅 I am constantly learning new things
 - ✉️ You can contact me at patashuri2003@gmail.com
   <br />
