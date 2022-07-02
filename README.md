@@ -3,7 +3,7 @@
 ## I'm a Junior Front-End Developer 💻
 
 - 💪 I like to write code
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning<br>
   express.js and MongoDB
 - 🥅 I am constantly learning new things
 - ✉️ You can contact me at patashuri2003@gmail.com
