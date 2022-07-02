@@ -1,11 +1,12 @@
-### Hi there 👋
+### 🙋 Welcome
 
-## I'm a Junior Front-End Developer
+## I'm a Junior Front-End Developer 💻
 
 - 💪 I like to write code
 - 🌱 I’m currently learning
   express.js and MongoDB
 - 🥅 I am constantly learning new things
+- ✉️ You can contact me at patashuri2003@gmail.com
   <br />
 
 ### Languages and Tools:
